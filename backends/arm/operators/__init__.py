@@ -19,4 +19,5 @@ from . import (  # noqa
     op_quant,
     op_softmax,
     op_view,
+    op_mean_dim,
 )
